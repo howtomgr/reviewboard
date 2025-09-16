@@ -1,0 +1,60 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.931839",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "reviewboard is a free and open-source code review tool. Review Board provides web-based code review and document review",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/reviewboard",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/reviewboard",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.931866",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "reviewboard",
+  "repository_url": "https://github.com/howtomgr/reviewboard",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "reviewboard Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/reviewboard"
+}
